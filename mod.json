@@ -1,0 +1,21 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "yourname.level-music-practice",
+	"name": "Level Music In Practice",
+	"version": "v1.0.0",
+	"developer": "yourname",
+	"description": "Plays the level's own music in practice mode instead of the practice mode music.",
+	"settings": {
+		"enabled": {
+			"type": "bool",
+			"name": "Use level music in practice",
+			"default": true
+		}
+	}
+}
